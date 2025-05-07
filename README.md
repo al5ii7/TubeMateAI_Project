@@ -120,8 +120,8 @@ python main.py
 5. Ask questions about the video in the chatbot.
 
 
-this demo:
-https://drive.google.com/drive/folders/1T6HyusTT1hBIytlZU74CLbCVf0nyiROR?usp=drive_link
+The Demo:
+
 ---
 
 ##  Notes
