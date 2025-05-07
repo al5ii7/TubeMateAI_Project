@@ -118,7 +118,8 @@ python main.py
 3. View the summary and transcript.
 4. Translate the summary if needed.
 5. Ask questions about the video in the chatbot.
-
+this demo:
+https://drive.google.com/drive/folders/1T6HyusTT1hBIytlZU74CLbCVf0nyiROR?usp=drive_link
 ---
 
 ##  Notes
